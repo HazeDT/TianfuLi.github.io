@@ -1,6 +1,6 @@
 # A simple Github Pages template for academic personal website.
 
-[!Screenshot of the Website](https://github.com/HazeDT/TianfuLi.github.io/blob/master/screenshot.jpg)]
+[![Screenshot of the Website](https://github.com/HazeDT/TianfuLi.github.io/blob/master/screenshot.jpg)](https://hazedt.github.io/TianfuLi.github.io/)
 
 ## Introduction
 
