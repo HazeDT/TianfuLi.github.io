@@ -1,10 +1,7 @@
 
-- *X. Gao, W. Zhu, J. Gao and <strong><strong>C. Yin</strong></strong>. (2023). F-PABEE: Flexible-Patience-Based Early Exiting For Single-Label and Multi-Label Text Classification Tasks. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10095864)
-
-- *<strong><strong>C. Yin</strong></strong>. (2023). Multi-scale and multi-task learning for human audio forensics based on convolutional networks. International Conference on Image, Signal Processing, and Pattern Recognition (ISPP 2023).* [[Paper]](https://doi.org/10.1117/12.2681344)
 - *Li T, Sun C, Fink O, et al. Filter-Informed Spectral Graph Wavelet Networks for Multiscale Feature Extraction and Intelligent Fault Diagnosis[J]. IEEE Transactions on Cybernetics, 2023. (SCI, 中科院一区，IF: 11.8)
-- *Li T, Sun C, Li S, et al. Explainable graph wavelet denoising network for intelligent fault diagnosis[J]. IEEE Transactions on Neural Networks and Learning Systems, 2022. (SCI, 中科院一区，IF: 10.4)
-- *Li T, Zhao Z, Sun C, et al. WaveletKernelNet: An interpretable deep neural network for industrial intelligent diagnosis[J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(4): 2302-2312. (SCI, 中科院一区，IF: 8.7，ESI高被引论文)
+- Li T, Sun C, Li S, et al. Explainable graph wavelet denoising network for intelligent fault diagnosis[J]. IEEE Transactions on Neural Networks and Learning Systems, 2022. (SCI, 中科院一区，IF: 10.4)
+- Li T, Zhao Z, Sun C, et al. WaveletKernelNet: An interpretable deep neural network for industrial intelligent diagnosis[J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(4): 2302-2312. (SCI, 中科院一区，IF: 8.7，ESI高被引论文)
 - *Li T, Zhou Z, Li S, et al. The emerging graph neural networks for intelligent fault diagnostics and prognostics: A guideline and a benchmark study[J]. Mechanical Systems and Signal Processing, 2022, 168: 108653. (SCI, 中科院一区，IF: 8.4，ESI高被引论文)
 - *Li T, Zhao Z, Sun C, et al. Hierarchical attention graph convolutional network to fuse multi-sensor signals for remaining useful life prediction[J]. Reliability Engineering & System Safety, 2021, 215: 107878. (SCI, 中科院一区，IF: 8.1)
 - *Li T, Zhao Z, Sun C, et al. Multireceptive field graph convolutional networks for machine fault diagnosis[J]. IEEE Transactions on Industrial Electronics, 2021, 68(12): 12739-12749. (SCI, 中科院一区，IF: 7.7，ESI高被引论文)
