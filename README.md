@@ -1,6 +1,6 @@
 # A simple Github Pages template for academic personal website.
 
-[![Screenshot of the Website](https://github.com/JerryYin777/JerryYin777.github.io/blob/master/screenshot.png)](https://jerrysys.top/)
+[![Screenshot of the Website](https://github.com/HazeDT/TianfuLi.github.io/blob/master/screenshot.jpg)]
 
 ## Introduction
 
