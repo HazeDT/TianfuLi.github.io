@@ -14,9 +14,9 @@ I was also fortunate to join the EPFL Intelligent Operation and Maintenance Labo
 * Google Scholar：[Tianfu Li's Google Scholar](https://scholar.google.com/citations?user=qgy8dygAAAAJ&hl=zh-CN)
 
 #### Education
-* **2018.09 - 2024.06, Mechanical Engineering, Xi'an Jiaotong University.
-* **2022.10 - 2023.10, Mechanical Engineering, École Polytechnique Fédérale de Lausanne(EPFL).
-* **2014.09 - 2018.06, Mechanical design, manufacturing and automation, Chongqing University.
+* 2018.09 - 2024.06, Mechanical Engineering, Xi'an Jiaotong University.
+* 2022.10 - 2023.10, Mechanical Engineering, École Polytechnique Fédérale de Lausanne(EPFL).
+* 2014.09 - 2018.06, Mechanical design, manufacturing and automation, Chongqing University.
 
 #### Research Interests
 Artificial Intelligence, Intelligent Maintenance, Fault diagosis&prognosis.
