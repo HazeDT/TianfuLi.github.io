@@ -1,6 +1,6 @@
 
 #### Biography
-#I am currently a junior Undergraduate Student pursuing a bachelor's Degree in computer science at College of Liberal Arts, University of Minnesota Twins Cities.
+I am currently a lecturer at the School of Mechanical and Electrical Engineering, Kunming University of Science and Technology.
 
 My research interests lie in aritificaill intelligence and their application in machine intelligent operation and maintenance, such machine anomaly detectiob, fault diagnosis and prognosis. My focus also includes developing interpretable machine learning models, aiming to improve the interpretability and generalizability of intelligent fault diagnosis methods.
 
