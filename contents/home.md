@@ -2,7 +2,7 @@
 #### Biography
 I am currently a lecturer at the School of Mechanical and Electrical Engineering, Kunming University of Science and Technology.
 
-My research interests lie in aritificaill intelligence and their application in machine intelligent operation and maintenance, such machine anomaly detectiob, fault diagnosis and prognosis. My focus also includes developing interpretable machine learning models, aiming to improve the interpretability and generalizability of intelligent fault diagnosis methods.
+My research interests lie in aritificaill intelligence and their application in machine intelligent maintenance, such machine anomaly detection, fault diagnosis & prognosis. My focus also includes developing interpretable machine learning models, aiming to improve the interpretability and generalizability of intelligent fault diagnosis methods.
 
 I received my Ph.D. in Mechanical Engineering from Xi'an Jiaotong University. My thesis title is Research on Interpretable Wavelet Deep Neural Network and Its Application in xxx Intelligent Diagnosis. My supervisor is Professor [Xuefeng Chen](https://scholar.google.com/citations?user=h47O1xYAAAAJ&hl=zh-CN) and my co-supervisor is Professor [Chuang Sun](https://scholar.google.com/citations?user=RpI75ZIAAAAJ&hl=zh-CN). My focus is on developing interpretable and efficient intelligent diagnosis models. In addition, I have participated in the research of many National Natural Science Foundation projects and am the person in charge of a Fundamental Research Funds for the Central Universitie (No.xzy022021005).
 
@@ -19,7 +19,7 @@ I was also fortunate to join the EPFL Intelligent Operation and Maintenance Labo
 * 2014.09 - 2018.06, Mechanical design, manufacturing and automation, Chongqing University.
 
 #### Research Interests
-Artificial Intelligence, Intelligent Maintenance, Fault diagosis&prognosis.
+Artificial Intelligence, Intelligent Maintenance, Fault diagosis & prognosis.
 
 #### Skills
 * **Intelligent Maintenance:** Proficient in using the PyTorch framework, with the ability to reproduce intelligent maintenance models in the industry.
