@@ -2,7 +2,7 @@
 - **2024**
 - *Li T, Sun C, Yan R, Chen X. A Novel Unsupervised Graph Wavelet Autoencoder for Mechanical System Fault Detection [J]. Journal of Intelligent Manufacturing, 2024. (SCI, 中科院二区，IF: 5.9) [CODE]()
 - **2023**
-- *Li T, Sun C, Fink O, et al. Filter-Informed Spectral Graph Wavelet Networks for Multiscale Feature Extraction and Intelligent Fault Diagnosis[J]. IEEE Transactions on Cybernetics, 2023. (SCI, 中科院一区，IF: 11.8) [CODE]()
+- *Li T, Sun C, Fink O, et al. Filter-Informed Spectral Graph Wavelet Networks for Multiscale Feature Extraction and Intelligent Fault Diagnosis[J]. IEEE Transactions on Cybernetics, 2023. (SCI, 中科院一区，IF: 11.8) [CODE](https://github.com/HazeDT/SGWN)
 - **2022**
 - *Li T, Sun C, Li S, et al. Explainable graph wavelet denoising network for intelligent fault diagnosis[J]. IEEE Transactions on Neural Networks and Learning Systems, 2022. (SCI, 中科院一区，IF: 10.4)
 - *Li T, Zhao Z, Sun C, et al. WaveletKernelNet: An interpretable deep neural network for industrial intelligent diagnosis[J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(4): 2302-2312. (SCI, 中科院一区，IF: 8.7，ESI高被引论文) [CODE](https://github.com/HazeDT/WaveletKernelNet)
