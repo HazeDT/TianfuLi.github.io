@@ -10,7 +10,7 @@ I was also fortunate to join the EPFL Intelligent Operation and Maintenance Labo
 
 #### Contact
 * Github: [Tianfu Li](https://github.com/HazeDT)
-* Email: tianfu.li [at] ieee.org
+* Email: tianfu.li [at] kust.edu.cn
 * Google Scholar：[Tianfu Li's Google Scholar](https://scholar.google.com/citations?user=qgy8dygAAAAJ&hl=zh-CN)
 
 #### Education
