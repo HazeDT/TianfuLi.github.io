@@ -1,6 +1,7 @@
 
 
   
+-徐宗本院士应用数学论文一等奖, 2024.
 - 斯坦福大学&Elsevier全球前2%顶尖学者榜单）, 2023.**(2%)**
 
 -  Andrew P.Sage Best Transcations Paper Award(IEEE SMC最佳期刊论文奖), from IEEE Systems, Man, and Cybernetics Society, 2023.**(1%)**
