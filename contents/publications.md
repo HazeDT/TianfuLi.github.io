@@ -1,18 +1,19 @@
 # First & corresponding author
 - # 2024
-- *Li T, Sun C, Yan R, Chen X. A Novel Unsupervised Graph Wavelet Autoencoder for Mechanical System Fault Detection [J]. Journal of Intelligent Manufacturing, 2024. (SCI, 中科院二区，IF: 5.9) [CODE](https://github.com/HazeDT/ARGWAE)
+- *Li T, Sun C, Yan R, Chen X. A Novel Unsupervised Graph Wavelet Autoencoder for Mechanical System Fault Detection [J]. Journal of Intelligent Manufacturing, 2024. (SCI, 中科院二区，IF: 5.9) [CODE](https://github.com/HazeDT/ARGWAE),[paper](https://link.springer.com/article/10.1007/s10845-024-02511-2)
 - # 2023
-- *Li T, Sun C, Fink O, et al. Filter-Informed Spectral Graph Wavelet Networks for Multiscale Feature Extraction and Intelligent Fault Diagnosis[J]. IEEE Transactions on Cybernetics, 2023. (SCI, 中科院一区，IF: 11.8) [CODE](https://github.com/HazeDT/SGWN)
+- *Li T, Sun C, Fink O, et al. Filter-Informed Spectral Graph Wavelet Networks for Multiscale Feature Extraction and Intelligent Fault Diagnosis[J]. IEEE Transactions on Cybernetics, 2023. (SCI, 中科院一区，IF: 11.8) [CODE](https://github.com/HazeDT/SGWN),[paper](https://ieeexplore.ieee.org/abstract/document/10079151)
 - # 2022 
-- *Li T, Sun C, Li S, et al. Explainable graph wavelet denoising network for intelligent fault diagnosis[J]. IEEE Transactions on Neural Networks and Learning Systems, 2022. (SCI, 中科院一区，IF: 10.4)
-- *Li T, Zhao Z, Sun C, et al. WaveletKernelNet: An interpretable deep neural network for industrial intelligent diagnosis[J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(4): 2302-2312. (SCI, 中科院一区，IF: 8.7，ESI高被引论文) [CODE](https://github.com/HazeDT/WaveletKernelNet)
-- *Li T, Zhou Z, Li S, et al. The emerging graph neural networks for intelligent fault diagnostics and prognostics: A guideline and a benchmark study[J]. Mechanical Systems and Signal Processing, 2022, 168: 108653. (SCI, 中科院一区，IF: 8.4，ESI高被引论文) [CODE](https://github.com/HazeDT/PHMGNNBenchmark)
+- *Li T, Sun C, Li S, et al. Explainable graph wavelet denoising network for intelligent fault diagnosis[J]. IEEE Transactions on Neural Networks and Learning Systems, 2022. (SCI, 中科院一区，IF: 10.4) [paper](https://ieeexplore.ieee.org/abstract/document/10002254)
+- *Li T, Zhao Z, Sun C, et al. WaveletKernelNet: An interpretable deep neural network for industrial intelligent diagnosis[J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(4): 2302-2312. (SCI, 中科院一区，IF: 8.7，ESI高被引论文) [CODE](https://github.com/HazeDT/WaveletKernelNet),[paper](https://ieeexplore.ieee.org/abstract/document/9328876)
+- *Li T, Zhou Z, Li S, et al. The emerging graph neural networks for intelligent fault diagnostics and prognostics: A guideline and a benchmark study[J]. Mechanical Systems and Signal Processing, 2022, 168: 108653. (SCI, 中科院一区，IF: 8.4，ESI高被引论文) [CODE](https://github.com/HazeDT/PHMGNNBenchmark),[paper](https://www.sciencedirect.com/science/article/abs/pii/S0888327021009791)
 - # 2021
-- *Li T, Zhao Z, Sun C, et al. Hierarchical attention graph convolutional network to fuse multi-sensor signals for remaining useful life prediction[J]. Reliability Engineering & System Safety, 2021, 215: 107878. (SCI, 中科院一区，IF: 8.1) 
-- *Li T, Zhao Z, Sun C, et al. Multireceptive field graph convolutional networks for machine fault diagnosis[J]. IEEE Transactions on Industrial Electronics, 2021, 68(12): 12739-12749. (SCI, 中科院一区，IF: 7.7，ESI高被引论文) [CODE](https://github.com/HazeDT/DAGCN)
-- *Li T, Zhao Z, Sun C, et al. Domain adversarial graph convolutional network for fault diagnosis under variable working conditions[J]. IEEE Transactions on Instrumentation and Measurement, 2021, 70: 1-10. (SCI, 中科院二区，IF: 5.6，ESI高被引论文)[CODE](https://github.com/HazeDT/DAGCN)
+- *Li T, Zhao Z, Sun C, et al. Hierarchical attention graph convolutional network to fuse multi-sensor signals for remaining useful life prediction[J]. Reliability Engineering & System Safety, 2021, 215: 107878. (SCI, 中科院一区，IF: 8.1) [paper](https://www.sciencedirect.com/science/article/abs/pii/S0951832021003975)
+- *Li T, Zhao Z, Sun C, et al. Multireceptive field graph convolutional networks for machine fault diagnosis[J]. IEEE Transactions on Industrial Electronics, 2021, 68(12): 12739-12749. (SCI, 中科院一区，IF: 7.7，ESI高被引论文) [CODE](https://github.com/HazeDT/DAGCN),[paper](https://ieeexplore.ieee.org/abstract/document/9280401)
+- *Li T, Zhao Z, Sun C, et al. Domain adversarial graph convolutional network for fault diagnosis under variable working conditions[J]. IEEE Transactions on Instrumentation and Measurement, 2021, 70: 1-10. (SCI, 中科院二区，IF: 5.6，ESI高被引论文)[CODE](https://github.com/HazeDT/DAGCN),[paper](https://ieeexplore.ieee.org/abstract/document/9410617/)
 - # 2020
-- *Li T, Zhao Z, Sun C, et al. Adaptive channel weighted CNN with multisensor fusion for condition monitoring of helicopter transmission system[J]. IEEE sensors journal, 2020, 20(15): 8364-8373. (SCI, 中科院二区，IF: 4.3)
+- *Li T, Zhao Z, Sun C, et al. Adaptive channel weighted CNN with multisensor fusion for condition monitoring of helicopter transmission system[J]. IEEE sensors journal, 2020, 20(15): 8364-8373. (SCI, 中科院二区，IF: 4.3)[paper](https://ieeexplore.ieee.org/abstract/document/9037361)
+- # 2020
 - *Li T, Zhao Z, Sun C, et al. Multi-scale CNN for multi-sensor feature fusion in helical gear fault detection[C]. Procedia Manufacturing, 2020, 49: 89-93. (会议论文)
 # Co-Work
 - Wang J, *Li T, Sun C, et al. Improved spiking neural network for intershaft bearing fault diagnosis[J]. Journal of Manufacturing Systems, 2022, 65: 208-219. (SCI, 中科院一区，IF: 12.1)
