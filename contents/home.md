@@ -1,6 +1,6 @@
 
 #### Biography
-I am currently a Distinguished Professor at the Faculty of Mechanical and Electrical Engineering, Kunming University of Science and Technology. Currently, I'am leading the research grouop of Machine Intelligence Maintenance (MIM).
+I am currently a Distinguished Professor at the Faculty of Mechanical and Electrical Engineering, Kunming University of Science and Technology. Currently, I'am leading the research group of Machine Intelligence Maintenance (MIM).
 
 My research interests lie in aritificaill intelligence and their application in machine intelligent maintenance, such machine anomaly detection, fault diagnosis & prognosis. My focus also includes developing interpretable machine learning models, aiming to improve the interpretability and generalizability of intelligent fault diagnosis methods.
 
